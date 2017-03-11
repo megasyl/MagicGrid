@@ -1,0 +1,17 @@
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/sylvainlasjunies/Desktop/Grid/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/sylvainlasjunies/Desktop/Grid/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/UnityEngine.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/UnityEditor.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Mono.Cecil.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/sylvainlasjunies/Desktop/Grid/Temp/bin/Debug/Mono.Cecil.Mdb.dll
